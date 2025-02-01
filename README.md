@@ -2,7 +2,7 @@
 
 Submitted by: **Jason Fuentes**
 
-**About ME ** is an app that contains 3 labels and a button. These
+**About ME** is an app that contains 3 labels and a button. These
 labels contain information about my name, univerity, and career I am pursuing. Within the app
 there is also a button that upon clicking, allows you to change the background color. The possibilities
 are ENDLESS, kinda... thanks to the randomized RGB colors within the app's code, it is highly likely that you will 
